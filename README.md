@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zbrag
 - 👀 I’m interested in computers
-- 🌱 I’m currently learning flutter & french
+- 🌱 I’m currently learning Java, flutter & french
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me via DM or twitter
 
