@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zbrag
-- 👀 I’m interested in computers
+- 👀 I’m interested in computers, algorithms and new technologies
 - 🌱 I’m currently learning Java, flutter & french
 - 💞️ I’m looking to collaborate on nothing
 
