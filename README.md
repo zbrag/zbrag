@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zbrag
 - 👀 I’m interested in computers, algorithms and new technologies
-- 🌱 I’m currently learning Java, flutter & french
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently learning French
 
 <!---
 zbrag/zbrag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
